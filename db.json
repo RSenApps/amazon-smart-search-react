@@ -1,0 +1,1740 @@
+{
+    "products": [
+        {
+            "position": {
+                "page": 1,
+                "position": 4,
+                "global_position": 3
+            },
+            "asin": "B08RXQSFKP",
+            "price": {
+                "discounted": false,
+                "current_price": 49.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 310,
+                "rating": 4.3
+            },
+            "url": "https://www.amazon.com/dp/B08RXQSFKP",
+            "score": "1333.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Sponsored Ad - HiXB USB 3.0 Flash Drive 2TB, 2000GB Flash Drives with Rotated Design, Memory Stick 2TB Compatible with Com...",
+            "thumbnail": "https://m.media-amazon.com/images/I/41FtwgJyg2L._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 5,
+                "global_position": 4
+            },
+            "asin": "B00FE2N1WS",
+            "price": {
+                "discounted": false,
+                "current_price": 17.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 24148,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B00FE2N1WS",
+            "score": "111080.80",
+            "sponsored": false,
+            "amazonChoice": true,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Sponsored Ad - PNY 128GB Turbo Attach\u00e9 3 USB 3.0 Flash Drive - (P-FD128TBOP-GE)",
+            "thumbnail": "https://m.media-amazon.com/images/I/815Ns1YytFL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 6,
+                "global_position": 5
+            },
+            "asin": "B07YWP4B65",
+            "price": {
+                "discounted": false,
+                "current_price": 21.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 715,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B07YWP4B65",
+            "score": "3289.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "128GB USB 3.0 Flash Drive 2 Pack Thumb Drive 128 GB High Speed Jump Drive Memory Stick with LED Light and Lanyards for Sto...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61w2yXv1pGL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 7,
+                "global_position": 6
+            },
+            "asin": "B08CXW4MFR",
+            "price": {
+                "discounted": false,
+                "current_price": 15.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 98,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B08CXW4MFR",
+            "score": "431.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "JUANWE USB 3.0 Flash Drive 128GB High-Speed Thumb Drive Jump Drive Portable Pen Drive with LED Indicator Memory Sticks for...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61VGlJzbL+L._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 8,
+                "global_position": 7
+            },
+            "asin": "B07T22RHT1",
+            "price": {
+                "discounted": false,
+                "current_price": 25.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 838,
+                "rating": 4.1
+            },
+            "url": "https://www.amazon.com/dp/B07T22RHT1",
+            "score": "3435.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "leizhan 128GB USB Flash Drive USB 3.0 Type C Phone Picture Stick for Samsung Galaxy S10+, S10e, S10,S9, Note 9, S8, S8 Plu...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61zpyywjKML._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 1,
+                "global_position": 8
+            },
+            "asin": "B08NSQNJSB",
+            "price": {
+                "discounted": false,
+                "current_price": 35.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 111,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B08NSQNJSB",
+            "score": "488.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Sponsored Ad - elevavie 1TB Flash Drive USB 3.0 Memory Stick Plug and Play Thumb Drive USB Drive with Keychain ,Photo Stic...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51DapIj6HyL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 2,
+                "global_position": 9
+            },
+            "asin": "B08R8W5PLM",
+            "price": {
+                "discounted": false,
+                "current_price": 32.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 56,
+                "rating": 4.8
+            },
+            "url": "https://www.amazon.com/dp/B08R8W5PLM",
+            "score": "268.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Sponsored Ad - Phone Flash Drive for Photo Stick 1TB Memory Stick USB 3.0 Flash Drive Thumb Drive for Phone and Computers(...",
+            "thumbnail": "https://m.media-amazon.com/images/I/714inFhXgkL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 3,
+                "global_position": 10
+            },
+            "asin": "B00EUY4IW8",
+            "price": {
+                "discounted": false,
+                "current_price": 23.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 651,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B00EUY4IW8",
+            "score": "2994.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Patriot Supersonic Boost XT PEF128GSBUSB 128GB USB 3.0 Water Resistant Flash Drive",
+            "thumbnail": "https://m.media-amazon.com/images/I/61GI3A-quwL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 4,
+                "global_position": 11
+            },
+            "asin": "B07DV5F9J9",
+            "price": {
+                "discounted": false,
+                "current_price": 39.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 725,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B07DV5F9J9",
+            "score": "3335.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "GorillaDrive 3.0 Ruggedized 128GB USB Flash Drive (Single)",
+            "thumbnail": "https://m.media-amazon.com/images/I/71QkiHN5tAL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 5,
+                "global_position": 12
+            },
+            "asin": "B07DNX26ZS",
+            "price": {
+                "discounted": false,
+                "current_price": 19.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 5051,
+                "rating": 4.2
+            },
+            "url": "https://www.amazon.com/dp/B07DNX26ZS",
+            "score": "21214.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "USB Flash Drive 128GB [3-in-1], Kimiandy USB 3.0 Adapter External Storage Memory Stick Adapter Expansion Compatible with M...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61gGL9vuPBL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 6,
+                "global_position": 13
+            },
+            "asin": "B07JW5TPCV",
+            "price": {
+                "discounted": true,
+                "current_price": 19.99,
+                "currency": "USD",
+                "before_price": 26.99,
+                "savings_amount": 7,
+                "savings_percent": 25.94
+            },
+            "reviews": {
+                "total_reviews": 3976,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B07JW5TPCV",
+            "score": "17494.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "128GB USB 3.0 Flash Drive, Techkey F90 Pen Drive High Speed Thumb Drive Capless Pendrive Retractable USB Memory Stick Shoc...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61Ssn1esl1L._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 7,
+                "global_position": 14
+            },
+            "asin": "B08KQ6CDRB",
+            "price": {
+                "discounted": false,
+                "current_price": 35.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 14,
+                "rating": 4.1
+            },
+            "url": "https://www.amazon.com/dp/B08KQ6CDRB",
+            "score": "57.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "The Photo Stick for iPhone,HenHot 128GB USB 3.0 Flash Drive Compatible for iPhone/iPad/Mac/PC,Storage Stick Support for Wi...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51UDikJDCwL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 8,
+                "global_position": 15
+            },
+            "asin": "B08BHYNXLM",
+            "price": {
+                "discounted": false,
+                "current_price": 18.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 109,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B08BHYNXLM",
+            "score": "490.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "128GB USB 3.0 Flash Drive with LED, Moreslan Waterproof Aluminum USB Memory Stick Thumb Drive Pen Drive with Colorful Ligh...",
+            "thumbnail": "https://m.media-amazon.com/images/I/41gLXe7yc3L._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 9,
+                "global_position": 16
+            },
+            "asin": "B06WWHHRHD",
+            "price": {
+                "discounted": false,
+                "current_price": 40.85,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 2409,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B06WWHHRHD",
+            "score": "10840.50",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Sandisk 128GB USB 3.0 iXpand Mini Flash Drive Stick For iPhone 6 SE iPad",
+            "thumbnail": "https://m.media-amazon.com/images/I/513DhjJ2wZL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 5,
+                "global_position": 20
+            },
+            "asin": "B08R8654R5",
+            "price": {
+                "discounted": true,
+                "current_price": 29.98,
+                "currency": "USD",
+                "before_price": 32.55,
+                "savings_amount": 2.57,
+                "savings_percent": 7.9
+            },
+            "reviews": {
+                "total_reviews": 19,
+                "rating": 4.9
+            },
+            "url": "https://www.amazon.com/dp/B08R8654R5",
+            "score": "93.10",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Sponsored Ad - Flash Drive for Phone Photo Stick 1TB Memory Stick USB 3.0 Flash Drive Memory Stick for Phone and Computers...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61x52qAIq7L._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 6,
+                "global_position": 21
+            },
+            "asin": "B07L27RHCS",
+            "price": {
+                "discounted": false,
+                "current_price": 23.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 810,
+                "rating": 4.1
+            },
+            "url": "https://www.amazon.com/dp/B07L27RHCS",
+            "score": "3321.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "USB Flash Drive for iPhone 128GB USB/Lightning/Micro USB 3 in 1 Photo Stick LOMYGUS OTG Memory Stick External Storage Thum...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61sTckVfm4L._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 7,
+                "global_position": 22
+            },
+            "asin": "B07855LJ99",
+            "price": {
+                "discounted": true,
+                "current_price": 18.85,
+                "currency": "USD",
+                "before_price": 37.99,
+                "savings_amount": 19.14,
+                "savings_percent": 50.38
+            },
+            "reviews": {
+                "total_reviews": 55274,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B07855LJ99",
+            "score": "254260.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46",
+            "thumbnail": "https://m.media-amazon.com/images/I/61+pA9gUKEL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 8,
+                "global_position": 23
+            },
+            "asin": "B0887VPMMZ",
+            "price": {
+                "discounted": false,
+                "current_price": 13.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 219,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B0887VPMMZ",
+            "score": "963.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "THKAILAR USB Flash Drive 128GB USB Thumb Drive 3.0 USB for PS4,USB Memory Stick for Business Traveler Works with External ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/41HlCiRKqXL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 1,
+                "global_position": 25
+            },
+            "asin": "B08QTGTRYX",
+            "price": {
+                "discounted": false,
+                "current_price": 33.98,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 69,
+                "rating": 4.9
+            },
+            "url": "https://www.amazon.com/dp/B08QTGTRYX",
+            "score": "338.10",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Sponsored Ad - iPhone Flash Drive for Phone Photo Stick 1000GB Memory Stick USB 3.0 Flash Drive Thumb Drive for Phone and ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61KNtOCDXQL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 3,
+                "global_position": 27
+            },
+            "asin": "B07S5K8QT7",
+            "price": {
+                "discounted": false,
+                "current_price": 25.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 520,
+                "rating": 4.1
+            },
+            "url": "https://www.amazon.com/dp/B07S5K8QT7",
+            "score": "2132.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "USB Flash Drive Photo Stick WIVIC USB 3.0 Memory Stick Compatible iPhone Picture Stick Mobile Compatible with iPhone Andro...",
+            "thumbnail": "https://m.media-amazon.com/images/I/81+-WxguasL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 4,
+                "global_position": 28
+            },
+            "asin": "B07SPF93H5",
+            "price": {
+                "discounted": false,
+                "current_price": 158.58,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 98,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.com/dp/B07SPF93H5",
+            "score": "460.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "SanDisk 128GB Cruzer Glide 3.0 USB Flash Drive (10 Pack Bundle) Jump Drive Pen Drive Works with Laptop Computers with USB ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71Z08hnrKRL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 5,
+                "global_position": 29
+            },
+            "asin": "B07Y58373H",
+            "price": {
+                "discounted": false,
+                "current_price": 27.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 1038,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B07Y58373H",
+            "score": "4774.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "128GB USB 3.0 Flash Drive, 2 Pack 128 GB Thumb Drives with Led Light and Lanyards , High Speed 128gig Multipack Rotatable ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/81h5aQMgIlL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 6,
+                "global_position": 30
+            },
+            "asin": "B081DFZRPX",
+            "price": {
+                "discounted": false,
+                "current_price": 29.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 930,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B081DFZRPX",
+            "score": "4092.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "THKAILAR USB-C Flash Drive 32GB 64GB 128GB 256GB 512GB OTG High Speed USB 3.0 Thumb Drive C Jump Drive for Android Phone/P...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61xJctD2AVL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 7,
+                "global_position": 31
+            },
+            "asin": "B08N3XLNK5",
+            "price": {
+                "discounted": false,
+                "current_price": 24.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 4,
+                "rating": 5
+            },
+            "url": "https://www.amazon.com/dp/B08N3XLNK5",
+            "score": "20.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "USB 3.0 Flash Drive, 128GB Thumb Drive, High Speed Memory Stick, USB, Type-C, Micro USB 3 in 1 Jump Drive.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51athARG1GL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 8,
+                "global_position": 32
+            },
+            "asin": "B07DW2PJ9F",
+            "price": {
+                "discounted": false,
+                "current_price": 24.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 4493,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B07DW2PJ9F",
+            "score": "20667.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Samsung Duo Plus USB 3.1 Flash Drive 128GB - 300MB/s - Type-C with Type-A Adapter (MUF-128DB/AM)",
+            "thumbnail": "https://m.media-amazon.com/images/I/81b-Ss6A9DL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 9,
+                "global_position": 33
+            },
+            "asin": "B085XSRVW9",
+            "price": {
+                "discounted": false,
+                "current_price": 30.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 149,
+                "rating": 3.9
+            },
+            "url": "https://www.amazon.com/dp/B085XSRVW9",
+            "score": "581.10",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Flash Drive Compatible for iPhone 128GB USB Flash Drive 3.0 WIVIC photostick Mobile for iPhone External Storage Type C And...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71beulnNPsL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 9,
+                "global_position": 34
+            },
+            "asin": "B07NVDMRJM",
+            "price": {
+                "discounted": false,
+                "current_price": 22.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 88,
+                "rating": 4.3
+            },
+            "url": "https://www.amazon.com/dp/B07NVDMRJM",
+            "score": "378.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "KEXIN 128GB USB C Flash Drive USB 3.0 Metal Dual Drive 128 GB Photo Stick Pocket-Size OTG Memory Stick for Type-C Android ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61oQbQyQtuL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 10,
+                "global_position": 35
+            },
+            "asin": "B07GSMSL28",
+            "price": {
+                "discounted": true,
+                "current_price": 39.99,
+                "currency": "USD",
+                "before_price": 69.99,
+                "savings_amount": 30,
+                "savings_percent": 42.86
+            },
+            "reviews": {
+                "total_reviews": 317,
+                "rating": 4.2
+            },
+            "url": "https://www.amazon.com/dp/B07GSMSL28",
+            "score": "1331.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Lexar LJDF35-128BNL Jumpdrive Fingerprint F35 128 GB USB 3.0 Flash Drive, Black/Silver",
+            "thumbnail": "https://m.media-amazon.com/images/I/61VC8E1FNfL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 12,
+                "global_position": 37
+            },
+            "asin": "B07T5XGWZY",
+            "price": {
+                "discounted": true,
+                "current_price": 18.99,
+                "currency": "USD",
+                "before_price": 25.99,
+                "savings_amount": 7,
+                "savings_percent": 26.93
+            },
+            "reviews": {
+                "total_reviews": 11751,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B07T5XGWZY",
+            "score": "54054.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Micro Center SuperSpeed 2 Pack 128GB USB 3.0 Flash Drive Gum Size Memory Stick Thumb Drive Data Storage Jump Drive (128G-2...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71cHayL1CVL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 15,
+                "global_position": 40
+            },
+            "asin": "B075X12NKG",
+            "price": {
+                "discounted": false,
+                "current_price": 89.19,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 805,
+                "rating": 4.8
+            },
+            "url": "https://www.amazon.com/dp/B075X12NKG",
+            "score": "3864.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "SanDisk Ultra USB (5 Pack) 3.0 128GB CZ48 Flash Drive High Performance Jump Drive/Thumb Drive/Pen Drive up to 100MB/s - wi...",
+            "thumbnail": "https://m.media-amazon.com/images/I/81qWqhY4EjL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 16,
+                "global_position": 41
+            },
+            "asin": "B07DCP94LG",
+            "price": {
+                "discounted": false,
+                "current_price": 14.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 1035,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B07DCP94LG",
+            "score": "4554.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Silicon Power 128GB USB 3.0/ USB 3.1 Gen1 USB Flash Drive, Blaze B30",
+            "thumbnail": "https://m.media-amazon.com/images/I/61o5Ww05-HL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 17,
+                "global_position": 42
+            },
+            "asin": "B07L3QPZ46",
+            "price": {
+                "discounted": false,
+                "current_price": 24.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 366,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.com/dp/B07L3QPZ46",
+            "score": "1720.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Silicon Power 128GB USB 3.0/3.1 Gen1 USB Flash Drive Jewel J80",
+            "thumbnail": "https://m.media-amazon.com/images/I/61ozpL+97zL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 18,
+                "global_position": 43
+            },
+            "asin": "B07SMS9WYB",
+            "price": {
+                "discounted": false,
+                "current_price": 22.98,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 274,
+                "rating": 4.1
+            },
+            "url": "https://www.amazon.com/dp/B07SMS9WYB",
+            "score": "1123.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "128GB USB Type-C Flash Drive 3.0 Dual Drive, BorlterClamp USB C Memory Stick OTG Thumb Drives for Android Smartphones Sams...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61Io7bOIXQL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 20,
+                "global_position": 45
+            },
+            "asin": "B07VCKDJKV",
+            "price": {
+                "discounted": false,
+                "current_price": 30.79,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 573,
+                "rating": 4.1
+            },
+            "url": "https://www.amazon.com/dp/B07VCKDJKV",
+            "score": "2349.30",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Flash Drive Photo Stick Mobile Compatible for iPhone USB 3.0 Memory Stick 128GB Jump Drive Type C Flash Drive with 4 Ports...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71B-c6A9CsL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 22,
+                "global_position": 47
+            },
+            "asin": "B08135QTJK",
+            "price": {
+                "discounted": false,
+                "current_price": 33.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 167,
+                "rating": 4
+            },
+            "url": "https://www.amazon.com/dp/B08135QTJK",
+            "score": "668.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "3 in 1 128GB USB Flash Drive for Samsung Galaxy S6/S7/S8/S8+/S9/S9+/S10, Note5/7/8/9, A70/A80/A90/A10/A6S/A9S LG Q7 Q8,LG ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51rVgMiCbLL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 23,
+                "global_position": 48
+            },
+            "asin": "B01LSBMH1Y",
+            "price": {
+                "discounted": false,
+                "current_price": 39.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 3618,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B01LSBMH1Y",
+            "score": "16281.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "iPhone Flash Drive 128GB HooToo USB 3.0 Photo Stick MFi Certified External Memory Stick, Compatible with iPhone iPad, Touc...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51aMuBSlJiL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 1,
+                "position": 25,
+                "global_position": 50
+            },
+            "asin": "B08PJW2F1K",
+            "price": {
+                "discounted": true,
+                "current_price": 30.99,
+                "currency": "USD",
+                "before_price": 39.99,
+                "savings_amount": 9,
+                "savings_percent": 22.51
+            },
+            "reviews": {
+                "total_reviews": 69,
+                "rating": 4.1
+            },
+            "url": "https://www.amazon.com/dp/B08PJW2F1K",
+            "score": "282.90",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Sponsored Ad - Loyalgo USB Flash Drive 1TB, Waterproof Thumb Drive1000GB USB 2.0 Metal Memory Stick with Keychain(Silver)",
+            "thumbnail": "https://m.media-amazon.com/images/I/61yiXLqCQDL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 10,
+                "global_position": 51
+            },
+            "asin": "B07TFCQ945",
+            "price": {
+                "discounted": true,
+                "current_price": 19.99,
+                "currency": "USD",
+                "before_price": 21.99,
+                "savings_amount": 2,
+                "savings_percent": 9.1
+            },
+            "reviews": {
+                "total_reviews": 7258,
+                "rating": 4.3
+            },
+            "url": "https://www.amazon.com/dp/B07TFCQ945",
+            "score": "31209.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Sunany Flash Drive 128GB, USB Memory Stick External Storage Thumb Drive Compatible with iPhone, iPad, Android, PC and More...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61D5r2mM4BL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 13,
+                "global_position": 54
+            },
+            "asin": "B083S8QBQH",
+            "price": {
+                "discounted": false,
+                "current_price": 14.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 14,
+                "rating": 4.1
+            },
+            "url": "https://www.amazon.com/dp/B083S8QBQH",
+            "score": "57.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "JOIOT Type C Flash Drive 128GB USB 3.0 Jump Drive (USB-A 3.0/USB-C 3.0) 2 in 1 OTG Memory Stick for for Android Smart Phon...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51U0yurC++L._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 14,
+                "global_position": 55
+            },
+            "asin": "B07NLNJB9C",
+            "price": {
+                "discounted": false,
+                "current_price": 27.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 4740,
+                "rating": 4.5
+            },
+            "url": "https://www.amazon.com/dp/B07NLNJB9C",
+            "score": "21330.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Patriot 128GB Supersonic Rage Elite USB 3.1 Type A, USB 3.0 Flash Drive with Transfer Speeds of Up to 400MB/sec",
+            "thumbnail": "https://m.media-amazon.com/images/I/61+F5QbPDCL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 16,
+                "global_position": 57
+            },
+            "asin": "B08MB9G2GM",
+            "price": {
+                "discounted": false,
+                "current_price": 14.88,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 4373,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B08MB9G2GM",
+            "score": "20115.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Flash Drive 128GB 3.0 USB Drive Thumb Drive Photo Stick USB Flash Drive up to 90MB/s for Data Storage, Pendrive Jump Drive...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61YdbMupNwL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 18,
+                "global_position": 59
+            },
+            "asin": "B01LFV52T6",
+            "price": {
+                "discounted": false,
+                "current_price": 18.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 2888,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B01LFV52T6",
+            "score": "13284.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PNY 128GB Elite-X Fit USB 3.0 Flash Drive",
+            "thumbnail": "https://m.media-amazon.com/images/I/81187EG2+CL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 19,
+                "global_position": 60
+            },
+            "asin": "B01CIEBXZG",
+            "price": {
+                "discounted": false,
+                "current_price": 50.36,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 28419,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B01CIEBXZG",
+            "score": "125043.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "SanDisk iXpand Flash Drive 128GB for iPhone and iPad, Black/Silver, (SDIX30C-128G-GN6NE)",
+            "thumbnail": "https://m.media-amazon.com/images/I/51ZeJjEifyL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 2,
+                "position": 20,
+                "global_position": 61
+            },
+            "asin": "B08M3N991B",
+            "price": {
+                "discounted": false,
+                "current_price": 23.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 153,
+                "rating": 4
+            },
+            "url": "https://www.amazon.com/dp/B08M3N991B",
+            "score": "612.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Photo Stick, Anyoug iOS Flash Drive 128GB, USB 3.0 Photo Stick Mobile Comptible iPhone, Memory Stick Thumb Drive Jump Driv...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61oH6gYAn9L._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 12,
+                "global_position": 66
+            },
+            "asin": "B01N1UXH7S",
+            "price": {
+                "discounted": false,
+                "current_price": 41.39,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 3872,
+                "rating": 4.3
+            },
+            "url": "https://www.amazon.com/dp/B01N1UXH7S",
+            "score": "16649.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "iDiskk (MFi Certified by Apple) 128GB Photo Stick for iPhone USB Flash Drive for iPhone12/12 mini/12 pro/11/11 pro/XR/X/XS...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61h0cXcnGpL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 13,
+                "global_position": 67
+            },
+            "asin": "B07MLD3WHJ",
+            "price": {
+                "discounted": false,
+                "current_price": 88.63,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 16,
+                "rating": 3.9
+            },
+            "url": "https://www.amazon.com/dp/B07MLD3WHJ",
+            "score": "62.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "PNY 128GB USB 3.0 Flash Drive Elite Turbo Attache 3 (Five Pack) Model P-FD128TBOP-GE Bundle with (2) Everything But Stromb...",
+            "thumbnail": "https://m.media-amazon.com/images/I/91NOpPK4kwL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 16,
+                "global_position": 70
+            },
+            "asin": "B07RNL9VWB",
+            "price": {
+                "discounted": true,
+                "current_price": 20.97,
+                "currency": "USD",
+                "before_price": 21.97,
+                "savings_amount": 1,
+                "savings_percent": 4.55
+            },
+            "reviews": {
+                "total_reviews": 882,
+                "rating": 4
+            },
+            "url": "https://www.amazon.com/dp/B07RNL9VWB",
+            "score": "3528.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "USB Flash Drive 128G Thumb Drive for iPhone Photo Stick 3in1 USB 3.0 Memory iPad Flash Drive USB Stick External Storage Ri...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61m+frT3fTL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 17,
+                "global_position": 71
+            },
+            "asin": "B07QK9VW3H",
+            "price": {
+                "discounted": false,
+                "current_price": 11.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 1308,
+                "rating": 3.8
+            },
+            "url": "https://www.amazon.com/dp/B07QK9VW3H",
+            "score": "4970.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "USB Flash Drive for iPhone_ E&jing iPhone Flash Drive 128GB iPhone External Storage USB 3.0 photostick Mobile for iPhone,A...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51luYrT+GAL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 18,
+                "global_position": 72
+            },
+            "asin": "B08LT7R3H7",
+            "price": {
+                "discounted": false,
+                "current_price": 23.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 276,
+                "rating": 4.2
+            },
+            "url": "https://www.amazon.com/dp/B08LT7R3H7",
+            "score": "1159.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "The Photo Stick for iPhone Flash Drives 128GB with Lighning/USB 3.0 Memory Stick for iPad LOMYGUS USB Flash Drive Compatib...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61AwZhajY9L._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 19,
+                "global_position": 73
+            },
+            "asin": "B07L9PWH9K",
+            "price": {
+                "discounted": true,
+                "current_price": 18.99,
+                "currency": "USD",
+                "before_price": 20.99,
+                "savings_amount": 2,
+                "savings_percent": 9.53
+            },
+            "reviews": {
+                "total_reviews": 1263,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.com/dp/B07L9PWH9K",
+            "score": "5936.10",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "SanDisk 128GB Ultra Loop USB 3.0 Flash Drive - SDCZ93-128G-G46",
+            "thumbnail": "https://m.media-amazon.com/images/I/61bFPca5SyL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 20,
+                "global_position": 74
+            },
+            "asin": "B00G9WHMHM",
+            "price": {
+                "discounted": false,
+                "current_price": 19.93,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 24362,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B00G9WHMHM",
+            "score": "112065.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "Kingston Digital 128GB Data Traveler 3.0 USB Flash Drive - Green (DTIG4/128GB)",
+            "thumbnail": "https://m.media-amazon.com/images/I/41P1ZH-zilL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 21,
+                "global_position": 75
+            },
+            "asin": "B07YZ67TBL",
+            "price": {
+                "discounted": false,
+                "current_price": 21.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 584,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B07YZ67TBL",
+            "score": "2569.60",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "128GB USB C Flash Drive, 2-in-1 USB 3.0 Thumb Drive, Dual USB Memory Stick Pen Drive for Type-C Android Smartphones Tablet...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61tTmfqmmlL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 3,
+                "position": 23,
+                "global_position": 77
+            },
+            "asin": "B087JRYMPS",
+            "price": {
+                "discounted": false,
+                "current_price": 18.88,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 252,
+                "rating": 4.1
+            },
+            "url": "https://www.amazon.com/dp/B087JRYMPS",
+            "score": "1033.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "USB Flash Drive 128G, USB Memory Stick 128GB Jump Drive Thumb Drive 3.0 Flash Drive Compatible for iPhone/iPad/PC/Android ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/71voFzQDMJL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 10,
+                "global_position": 80
+            },
+            "asin": "B01N0YZVQE",
+            "price": {
+                "discounted": false,
+                "current_price": 29.33,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 3952,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B01N0YZVQE",
+            "score": "18179.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "SanDisk 128GB Extreme Go USB 3.1 Flash Drive - SDCZ800-128G-G46",
+            "thumbnail": "https://m.media-amazon.com/images/I/418Tlx4TNtL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 13,
+                "global_position": 83
+            },
+            "asin": "B082M5CGLS",
+            "price": {
+                "discounted": true,
+                "current_price": 50.99,
+                "currency": "USD",
+                "before_price": 55.99,
+                "savings_amount": 5,
+                "savings_percent": 8.93
+            },
+            "reviews": {
+                "total_reviews": 20,
+                "rating": 3.1
+            },
+            "url": "https://www.amazon.com/dp/B082M5CGLS",
+            "score": "62.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "USB 3.0 Wireless Flash Drive 128GB Airdisk WiFi\u00a0External Storage Stick for iPhone, ipad, Android Smart Phones, Tablets",
+            "thumbnail": "https://m.media-amazon.com/images/I/61JQvyhK-5L._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 14,
+                "global_position": 84
+            },
+            "asin": "B07ZJD2YJF",
+            "price": {
+                "discounted": false,
+                "current_price": 0,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 36,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B07ZJD2YJF",
+            "score": "158.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "SanDisk iXpand Flash Drive Go for Your iPhone - 128 GB - USB 3.0 Type A, Lightning - 1 Year Warranty",
+            "thumbnail": "https://m.media-amazon.com/images/I/51JTxtcdJYL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 15,
+                "global_position": 85
+            },
+            "asin": "B01EZ0X55C",
+            "price": {
+                "discounted": false,
+                "current_price": 19.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 29944,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B01EZ0X55C",
+            "score": "137742.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "SanDisk - SDDDC2-128G-G46 128GB Ultra Dual Drive USB Type-C - USB-C, USB 3.1 - SDDDC2-128G-G46 Gray",
+            "thumbnail": "https://m.media-amazon.com/images/I/61V6KUpjqKL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 16,
+                "global_position": 86
+            },
+            "asin": "B08GLKN2QK",
+            "price": {
+                "discounted": false,
+                "current_price": 29.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 20,
+                "rating": 4.7
+            },
+            "url": "https://www.amazon.com/dp/B08GLKN2QK",
+            "score": "94.00",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": false,
+            "title": "3 in 1 128GB USB Flash Drive for Samsung Galaxy S6/S7/S8/S8+/S9/S9+/S10, Note5/7/8/9, A70/A80/A90/A10/A6S/A9S LG Q7 Q8,LG ...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51eER8akLfL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 17,
+                "global_position": 87
+            },
+            "asin": "B07YYW4CZ8",
+            "price": {
+                "discounted": false,
+                "current_price": 19.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 303,
+                "rating": 4.4
+            },
+            "url": "https://www.amazon.com/dp/B07YYW4CZ8",
+            "score": "1333.20",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "128GB Type C Flash Drive 2 in 1 OTG Dual USB C Thumb Drive 128 GB Thunderbolt Memory Stick for Thunderbolt3 Metal Rugged S...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51kjAMgC6yL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 18,
+                "global_position": 88
+            },
+            "asin": "B07VLB1C8K",
+            "price": {
+                "discounted": false,
+                "current_price": 34.99,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 864,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B07VLB1C8K",
+            "score": "3974.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "PNY 128GB Turbo Attach\u00e9 4 USB 3.0 Flash Drive - (P-FD128TBAT4-GE)",
+            "thumbnail": "https://m.media-amazon.com/images/I/71t7zGpjKKL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 19,
+                "global_position": 89
+            },
+            "asin": "B07S9QS781",
+            "price": {
+                "discounted": false,
+                "current_price": 14.59,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 2334,
+                "rating": 4.6
+            },
+            "url": "https://www.amazon.com/dp/B07S9QS781",
+            "score": "10736.40",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "JUANWE 128GB USB 3.0 Flash Drive, Thumb Drives Speed up to 100MB/s, Swivel and LED Indicator Design Memory Stick for PC/La...",
+            "thumbnail": "https://m.media-amazon.com/images/I/61mamMB+aOL._AC_UY218_.jpg"
+        },
+        {
+            "position": {
+                "page": 4,
+                "position": 20,
+                "global_position": 90
+            },
+            "asin": "B01N1Q9EME",
+            "price": {
+                "discounted": false,
+                "current_price": 18.75,
+                "currency": "USD",
+                "before_price": 0,
+                "savings_amount": 0,
+                "savings_percent": 0
+            },
+            "reviews": {
+                "total_reviews": 631,
+                "rating": 3.8
+            },
+            "url": "https://www.amazon.com/dp/B01N1Q9EME",
+            "score": "2397.80",
+            "sponsored": false,
+            "amazonChoice": false,
+            "bestSeller": false,
+            "amazonPrime": true,
+            "title": "iOS Flash Drive for iPhone Photo Stick 128GB Memory Stick USB 3.0 Flash Drive Thumb Drive for iPhone iPad Android and Comp...",
+            "thumbnail": "https://m.media-amazon.com/images/I/51JFIkpirYL._AC_UY218_.jpg"
+        }
+    ]
+}
