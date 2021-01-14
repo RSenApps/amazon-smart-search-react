@@ -22,8 +22,8 @@ const App = ({ children }) => {
               new_rating = parseFloat(new_rating);
               new_count = parseInt(new_count);
               let product_copy = {...item};
-              product_copy.reviews.rating = new_rating;
-              product_copy.reviews.total_reviews = new_count;
+              product_copy.rating = new_rating;
+              product_copy.reviews = new_count;
               setProducts(products => products.map(product => 
                 product.asin !== product_copy.asin ? product : product_copy));
             }
