@@ -2,6 +2,7 @@ import 'typeface-roboto'
 import React, { useState, useEffect } from 'react'
 import BasicTable from './Table'
 import fetcher from './fetcher'
+import MyScatter from './Scatter'
 
 const App = ({ children }) => {
   const [products, setProducts] = useState([]);
@@ -12,30 +13,66 @@ const App = ({ children }) => {
         setProducts(data);
         return data;
       })
-      .then(data => {
-        data.map((item, index) => {
-          fetcher.fetch_review_meta(item.asin)
-          .then(meta_result => {
-            let new_rating = meta_result.rating;
-            let new_count = meta_result.count;
-            if (new_rating !== "" && new_count !== "") {
-              new_rating = parseFloat(new_rating);
-              new_count = parseInt(new_count);
-              let product_copy = {...item};
-              product_copy.rating = new_rating;
-              product_copy.reviews = new_count;
-              setProducts(products => products.map(product => 
-                product.asin !== product_copy.asin ? product : product_copy));
-            }
-          })
-        }
-        )
+    // .then(data => {
+    //   Promise.all([
+    //     data.map((item, index) => {
+    //       fetcher.fetch_review_meta(item.asin)
+    //         .then(meta_result => {
+    //           let new_rating = meta_result.rating;
+    //           let new_count = meta_result.count;
+    //           if (new_rating !== "" && new_count !== "") {
+    //             new_rating = parseFloat(new_rating);
+    //             new_count = parseInt(new_count);
+    //             let product_copy = { ...item };
+    //             product_copy.rating = new_rating;
+    //             product_copy.reviews = new_count;
+    //             setProducts(products => products.map(product =>
+    //               product.asin !== product_copy.asin ? product : product_copy));
+    //           }
+    //         })
+    //     })
+    //   ])
+    // })
+    fetch(`http://api.allorigins.win/get?url=${encodeURIComponent('https://www.amazon.com/dp/B07855LJ99')}`)
+      .then(response => {
+        if (response.ok) return response.json()
+        throw new Error('Network response was not ok.')
       })
+      .then(data => {
+        var iframe = document.getElementById('my-iframe');
+        var doc = iframe.document;
+
+        if (iframe.contentDocument) {
+          doc = iframe.contentDocument;
+        } else if (iframe.contentWindow) {
+          doc = iframe.contentWindow.document;
+        }
+        doc.open();
+        doc.writeln(data.contents);
+        doc.close();
+
+      });
   }, [])
 
-  return BasicTable(products);
+  return (
+    <div style = {{ width: "100%", height:"100%"}}>
+      <div style={{ float: "left", width:"50%" }}>
+        <div style={{ display: "flex", justifyContent: "center" }}>
+          <div style={{ display: "inline-block" }}>
+            {MyScatter(products, "price", "rating", "Price", "Rating")}
+          </div>
+          <div style={{ display: "inline-block"}}>
+            {MyScatter(products, "rating", "reviews", "Rating", "Reviews")}
+          </div>
+        </div>
+        {BasicTable(products)}
+      </div>
+      <div style={{ float: "right", width:"50%", height:"100%"}}>
+        <iframe id="my-iframe" style={{width: '100%', height: '100vh', display: "block"}}></iframe>
+      </div>
+    </div>
+
+  )
 };
-
-
 
 export default App;
