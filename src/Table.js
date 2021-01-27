@@ -170,11 +170,10 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function BasicTable(rows) {
+export default function BasicTable(rows, selected, setSelected) {
   const classes = useStyles();
   const [order, setOrder] = React.useState('desc');
   const [orderBy, setOrderBy] = React.useState('reviews.rating');
-  const [selected, setSelected] = React.useState([]);
   const [page, setPage] = React.useState(0);
   const [dense, setDense] = React.useState(false);
   const [rowsPerPage, setRowsPerPage] = React.useState(5);
@@ -187,7 +186,7 @@ export default function BasicTable(rows) {
 
   const handleSelectAllClick = (event) => {
     if (event.target.checked) {
-      const newSelecteds = rows.map((n) => n.title);
+      const newSelecteds = rows.map((n) => n.asin);
       setSelected(newSelecteds);
       return;
     }

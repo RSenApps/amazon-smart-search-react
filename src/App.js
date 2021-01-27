@@ -3,9 +3,11 @@ import React, { useState, useEffect } from 'react'
 import BasicTable from './Table'
 import fetcher from './fetcher'
 import MyScatter from './Scatter'
+import Webframe from './Webframe'
 
 const App = ({ children }) => {
   const [products, setProducts] = useState([]);
+  const [selected, setSelected] = React.useState([]);
 
   useEffect(() => {
     fetcher.get_products("fake_query")
@@ -33,25 +35,6 @@ const App = ({ children }) => {
     //     })
     //   ])
     // })
-    fetch(`http://api.allorigins.win/get?url=${encodeURIComponent('https://www.amazon.com/dp/B07855LJ99')}`)
-      .then(response => {
-        if (response.ok) return response.json()
-        throw new Error('Network response was not ok.')
-      })
-      .then(data => {
-        var iframe = document.getElementById('my-iframe');
-        var doc = iframe.document;
-
-        if (iframe.contentDocument) {
-          doc = iframe.contentDocument;
-        } else if (iframe.contentWindow) {
-          doc = iframe.contentWindow.document;
-        }
-        doc.open();
-        doc.writeln(data.contents);
-        doc.close();
-
-      });
   }, [])
 
   return (
@@ -65,10 +48,10 @@ const App = ({ children }) => {
             {MyScatter(products, "rating", "reviews", "Rating", "Reviews")}
           </div>
         </div>
-        {BasicTable(products)}
+        {BasicTable(products, selected, setSelected)}
       </div>
       <div style={{ float: "right", width:"50%", height:"100%"}}>
-        <iframe id="my-iframe" style={{width: '100%', height: '100vh', display: "block"}}></iframe>
+        {Webframe("https://www.amazon.com/dp/" + selected[0])}
       </div>
     </div>
 
