@@ -26,8 +26,8 @@ function getTicks(key) {
 export default function MyScatter(data, xkey, ykey, xlabel, ylabel) {
     return (
         <ScatterChart
-        width={400}
-        height={400}
+        width={350}
+        height={350}
         margin={{
             top: 20, right: 20, bottom: 20, left: 20,
         }}

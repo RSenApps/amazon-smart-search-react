@@ -4,10 +4,16 @@ import BasicTable from './Table'
 import fetcher from './fetcher'
 import MyScatter from './Scatter'
 import Webframe from './Webframe'
+import HSlider from './HSlider'
+import VSlider from './VSlider'
+import Grid from '@material-ui/core/Grid';
+
 
 const App = ({ children }) => {
   const [products, setProducts] = useState([]);
   const [selected, setSelected] = React.useState([]);
+  const [priceRange, setPriceRange] = React.useState([0, 100]);
+  const [ratingRange, setRatingRange] = React.useState([0, 100]);
 
   useEffect(() => {
     fetcher.get_products("fake_query")
@@ -38,23 +44,32 @@ const App = ({ children }) => {
   }, [])
 
   return (
-    <div style = {{ width: "100%", height:"100%"}}>
-      <div style={{ float: "left", width:"50%" }}>
-        <div style={{ display: "flex", justifyContent: "center" }}>
-          <div style={{ display: "inline-block" }}>
+    <Grid container alignItems="flex-start">
+      <Grid container item xs={6}>
+        <Grid container item spacing={0}>
+          <Grid item xs={5}>
             {MyScatter(products, "price", "rating", "Price", "Rating")}
-          </div>
-          <div style={{ display: "inline-block"}}>
+            {HSlider(priceRange, setPriceRange)}
+          </Grid>
+          <Grid item xs={1}>
+            {VSlider(ratingRange, setRatingRange)}
+          </Grid>
+          <Grid item xs={5}>
             {MyScatter(products, "rating", "reviews", "Rating", "Reviews")}
-          </div>
-        </div>
-        {BasicTable(products, selected, setSelected)}
-      </div>
-      <div style={{ float: "right", width:"50%", height:"100%"}}>
+            {HSlider(ratingRange, setRatingRange)}
+          </Grid>
+          <Grid item xs={1}>
+            {VSlider(ratingRange, setRatingRange)}
+          </Grid>
+        </Grid>
+        <Grid item>
+          {BasicTable(products, selected, setSelected)}
+        </Grid>
+      </Grid>
+      <Grid item xs={6}>
         {Webframe("https://www.amazon.com/dp/" + selected[0])}
-      </div>
-    </div>
-
+      </Grid>
+    </Grid>
   )
 };
 
